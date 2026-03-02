@@ -46,7 +46,8 @@ Beyond the frontend, it features a robust backend with strict user authenticatio
 
 ## 📸 Visuals
 
-*(Drag and drop your project screenshots or a short GIF of the parallax scroll here)*
+*<img width="1917" height="943" alt="Screenshot 2026-03-02 230525" src="https://github.com/user-attachments/assets/c06f3cd9-ff8e-4138-a065-df3c08968017" />*
+
 
 ## 🚀 Getting Started
 
