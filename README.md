@@ -47,6 +47,10 @@ Beyond the frontend, it features a robust backend with strict user authenticatio
 ## 📸 Visuals
 
 *<img width="1917" height="943" alt="Screenshot 2026-03-02 230525" src="https://github.com/user-attachments/assets/c06f3cd9-ff8e-4138-a065-df3c08968017" />*
+*<img width="1899" height="842" alt="Screenshot 2026-03-02 230616" src="https://github.com/user-attachments/assets/4d99d37e-6f67-4811-a455-9d99d6926b98" />*
+*<img width="1906" height="835" alt="Screenshot 2026-03-02 230650" src="https://github.com/user-attachments/assets/eb977e42-c0f2-49b0-bad9-8970bf16d4b4" />*
+
+
 
 
 ## 🚀 Getting Started
