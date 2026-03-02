@@ -59,4 +59,4 @@ Make sure you have Node.js and PostgreSQL installed on your machine.
 
 1. Clone the repository:
    ```bash
-   git clone (https://github.com/JaanviJain/Pomodoro.git)
+   git clone https://github.com/JaanviJain/Pomodoro.git
