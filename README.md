@@ -1,4 +1,4 @@
-# Pomodoro
+
 <div align="center">
 
 # ⏳ Minimalist Pomodoro | Lo-Fi Study Edition
@@ -59,4 +59,4 @@ Make sure you have Node.js and PostgreSQL installed on your machine.
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/janvijain996/time-manager.git](https://github.com/janvijain996/time-manager.git)
+   git clone (https://github.com/JaanviJain/Pomodoro.git)
